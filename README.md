@@ -19,3 +19,15 @@ Um simples downloader de vídeos do YouTube que utiliza o `yt-dlp` para baixar v
 1. Clone o repositório:
    ```bash
    git clone https://github.com/vortex2jm/video_downloader.git
+
+2. Navegue até o diretório do projeto:
+
+   cd video_downloader
+
+3. Instale as dependências:
+
+   pip install yt-dlp
+
+4. Execute o script e forneça a URL do vídeo do YouTube:
+
+   python main.py
